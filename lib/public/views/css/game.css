@@ -1,0 +1,51 @@
+#menubar,
+#users,
+#rooms,
+#profile,
+#chats,
+#oldchat,
+#inchat {
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+#menubar {
+  width: 980px;
+  height: 20px;
+}
+
+#users {
+  width: 120px;
+  height: 500px;
+}
+
+#rooms {
+  width: 840px;
+  height: 500px;
+}
+
+#profile {
+  width: 120px;
+  height: 120px;
+}
+
+#chats {
+  height: 120px;
+  width: 840px
+}
+
+#oldchat {
+  width: 820px;
+  height: 65%;
+  overflow: auto
+}
+
+#inchat {
+  width: 750px;
+}
+
+#send {
+  width: 50px;
+  height: 20px;
+}

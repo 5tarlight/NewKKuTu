@@ -1,0 +1,15 @@
+# NewKkuTu
+- 설정
+  - lib/secret/setting.inc.js 파일의 이름을 setting.js 로 수정합니다.
+    - 파일 내용을 적절히 수정합니다.
+  - set-up.bat 파일을 실행시킵니다.
+  - db.sql 파일을 DB에 입력시킵니다.
+  - 끝
+- 주의사항
+  - Node.js가 컴퓨터에 설치되어 있어야 합니다.
+  - DB를 사용하니 DB를 설치해 주십시오.
+    - MariaDB사용을 추천합니다.
+  - 쪼리핑님의 끄투를 리메이크 하였습니다.
+- 도움
+  - Starlight (Starlight#7528)
+  - UnderC (UnderC#5379)

@@ -1,0 +1,35 @@
+{
+  "name": "newkkutu",
+  "version": "1.0.0",
+  "description": "NEW KKuTu",
+  "main": "app.js",
+  "scripts": {
+    "test": "/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaruDeveloperStarlight/NewKkuTu.git"
+  },
+  "keywords": [
+    "KkuTu"
+  ],
+  "author": "Starlight",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GaruDeveloperStarlight/NewKkuTu/issues"
+  },
+  "homepage": "https://github.com/GaruDeveloperStarlight/NewKkuTu#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-error-handler": "^1.1.0",
+    "express-session": "^1.15.6",
+    "http": "0.0.0",
+    "mysql": "^2.16.0",
+    "serve-static": "^1.13.2",
+    "socket.io": "^2.1.1"
+  }
+}
